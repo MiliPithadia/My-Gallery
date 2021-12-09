@@ -1,0 +1,49 @@
+.image2{
+    width: 350px;
+    height: 200px;
+    padding-right: 16;
+    padding-left: 16px;
+}
+h2{
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: fantasy;
+    float: right;
+    top: 0px;
+    right: 100px;
+    cursor: pointer;
+    color:darkslateblue;
+    text-align: center;
+}
+.link{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 23px;
+    font-family:fantasy;
+    font-size: 20px;
+}
+#title{
+    text-align: center;
+}
+.name{
+    padding-top: 20px;
+    text-align: center;
+}
+#myCarousel{
+    background-color:blanchedalmond;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+#gridview{
+    padding-right: 20px;
+}
+.row{
+      margin-left: 50px;
+}
+.SD{
+    text-align: center;
+}
